@@ -5,15 +5,15 @@ Given an image we need to predict the correct class of this image?
 The images are very small (32x32) and by visualizing them you will notice how difficult it is to distinguish them even for a human.
 In this notebook we are going to build a CNN model that can classify images of various objects. We have 10 class of images:
 
-1.Airplane
-2.Automobile
-3.Bird
-4.Cat
-5.Deer
-6.Dog
-7.Frog
-8.Horse
-9.Ship
-10.Truck
-
+<ol><li>Airplane</li>
+  <li>Automobile</li>
+  <li>Bird</li>
+  <li>Cat</li>
+  <li>Deer</li>
+  <li>Dog</li>
+  <li>Frog</li>
+  <li>Horse</li>
+  <li>Ship</li>
+  <li>Truck</li>
+</ol>
 We have 10 classes, so if we pick a image and we randomly gues it class, we have 1/10 probability to be true.
