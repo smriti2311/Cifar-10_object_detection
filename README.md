@@ -16,4 +16,4 @@ In this notebook we are going to build a CNN model that can classify images of v
   <li>Ship</li>
   <li>Truck</li>
 </ol>
-We have 10 classes, so if we pick a image and we randomly gues it class, we have 1/10 probability to be true.
+We have 10 classes, so if we pick a image and we randomly guess its class, we have 1/10 probability to be true.
